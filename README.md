@@ -14,8 +14,11 @@
   <a href = "mailto:decomgoulart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </divdir><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMGoulart&theme=neon&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMGoulart&theme=neon&show_icons=true)<br>
 
+![Snake_animation](https://github.com/AndreMGoulart/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats-vercel.app/api/pin/?username=AndreMGoulart&repo=AndreMGoulart&theme=react)](https://github.com/AndreMGoulart/AndreMGoulart)
 
 
 
