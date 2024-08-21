@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreMGoulart&theme=neon&show_icons=true)<br>
 
-![Snake animation](https://github.com/AndreMGoulart/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AndreMGoulart/AndreMGoulart/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats-vercel.app/api/pin/?username=AndreMGoulart&repo=AndreMGoulart&theme=react)](https://github.com/AndreMGoulart/AndreMGoulart)
 
